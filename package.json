@@ -51,7 +51,11 @@
     "sync-mysql": "^3.0.1",
     "unix-time": "^1.0.1",
     "urldecode": "^1.0.1"
-  }
+  },
+      "require": {
+        "ext-gd": "*",
+        "ext-gd": "*"
+    }
 }
 
 
